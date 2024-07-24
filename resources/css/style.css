@@ -30,3 +30,9 @@ body {
     font-size: 14px;
 }
 
+/*Footer*/
+.footer--copyright {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
